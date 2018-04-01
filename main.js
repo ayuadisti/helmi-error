@@ -1,1 +1,1 @@
-var cantik = "ayu";
+var cantik = "adisti";
